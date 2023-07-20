@@ -1,0 +1,2 @@
+D:\Môn Học\IOT\CRC_IOT\CRC_IOT\obj\Debug\CRC_IOT.csprojAssemblyReference.cache
+D:\Môn Học\IOT\CRC_IOT\CRC_IOT\obj\Debug\CRC_IOT.csproj.CoreCompileInputs.cache

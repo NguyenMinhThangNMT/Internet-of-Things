@@ -1,0 +1,10 @@
+D:\Môn Học\IOT\ComPort\ComPort\bin\Debug\ComPort.exe.config
+D:\Môn Học\IOT\ComPort\ComPort\bin\Debug\ComPort.exe
+D:\Môn Học\IOT\ComPort\ComPort\bin\Debug\ComPort.pdb
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.exe
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.pdb
+D:\Môn Học\IOT\ComPort\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
